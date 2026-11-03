@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-03T16:07:10.900Z",
-  "totalPeople": 15,
-  "totalMedia": 784,
+  "generated_at": "2026-11-03T16:09:19.402Z",
+  "totalPeople": 16,
+  "totalMedia": 785,
   "people": [
     {
       "key": "chau",
@@ -23,6 +23,13 @@
       "photosCount": 1,
       "videosCount": 0,
       "latestPublishedAt": "2026-08-04T13:46:54+07:00"
+    },
+    {
+      "key": "duongminh",
+      "totalCount": 1,
+      "photosCount": 0,
+      "videosCount": 1,
+      "latestPublishedAt": "2025-08-15T18:12:53+07:00"
     },
     {
       "key": "giang",
