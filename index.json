@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T15:13:35.570Z",
-  "totalPeople": 9,
+  "generated_at": "2026-11-03T15:14:27.441Z",
+  "totalPeople": 10,
   "totalMedia": 140,
   "people": [
     {
@@ -51,6 +51,13 @@
       "photosCount": 4,
       "videosCount": 0,
       "latestPublishedAt": "2025-06-17T18:41:38+07:00"
+    },
+    {
+      "key": "lam",
+      "totalCount": 0,
+      "photosCount": 0,
+      "videosCount": 0,
+      "latestPublishedAt": null
     },
     {
       "key": "myan",
