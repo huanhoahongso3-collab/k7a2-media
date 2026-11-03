@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-03T15:05:22.603Z",
-  "totalPeople": 6,
-  "totalMedia": 105,
+  "generated_at": "2026-11-03T15:06:44.622Z",
+  "totalPeople": 7,
+  "totalMedia": 106,
   "people": [
     {
       "key": "chau",
@@ -23,6 +23,13 @@
       "photosCount": 1,
       "videosCount": 0,
       "latestPublishedAt": "2026-08-04T13:46:54+07:00"
+    },
+    {
+      "key": "giang",
+      "totalCount": 1,
+      "photosCount": 1,
+      "videosCount": 0,
+      "latestPublishedAt": "2026-09-02T14:13:45+07:00"
     },
     {
       "key": "hoaian",
