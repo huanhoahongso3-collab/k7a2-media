@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T16:50:03.038Z",
-  "totalPeople": 21,
+  "generated_at": "2026-11-03T17:08:10.194Z",
+  "totalPeople": 22,
   "totalMedia": 1256,
   "people": [
     {
@@ -128,6 +128,13 @@
       "photosCount": 43,
       "videosCount": 12,
       "latestPublishedAt": "2026-09-11T11:27:43+07:00"
+    },
+    {
+      "key": "thanh",
+      "totalCount": 0,
+      "photosCount": 0,
+      "videosCount": 0,
+      "latestPublishedAt": null
     },
     {
       "key": "thlinh",
