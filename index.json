@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T15:24:31.639Z",
-  "totalPeople": 11,
+  "generated_at": "2026-11-03T15:27:59.529Z",
+  "totalPeople": 12,
   "totalMedia": 247,
   "people": [
     {
@@ -79,6 +79,13 @@
       "photosCount": 98,
       "videosCount": 9,
       "latestPublishedAt": "2026-10-20T20:15:35+07:00"
+    },
+    {
+      "key": "tplinh",
+      "totalCount": 0,
+      "photosCount": 0,
+      "videosCount": 0,
+      "latestPublishedAt": null
     }
   ]
 }
