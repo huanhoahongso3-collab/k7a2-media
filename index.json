@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T17:17:28.912Z",
-  "totalPeople": 24,
+  "generated_at": "2026-11-03T17:17:53.848Z",
+  "totalPeople": 25,
   "totalMedia": 1269,
   "people": [
     {
@@ -156,6 +156,13 @@
       "photosCount": 3,
       "videosCount": 53,
       "latestPublishedAt": "2026-11-03T14:32:24+07:00"
+    },
+    {
+      "key": "truc",
+      "totalCount": 0,
+      "photosCount": 0,
+      "videosCount": 0,
+      "latestPublishedAt": null
     },
     {
       "key": "vhlinh",
