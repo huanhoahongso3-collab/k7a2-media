@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T16:09:19.402Z",
-  "totalPeople": 16,
+  "generated_at": "2026-11-03T16:09:31.377Z",
+  "totalPeople": 17,
   "totalMedia": 785,
   "people": [
     {
@@ -93,6 +93,13 @@
       "photosCount": 98,
       "videosCount": 9,
       "latestPublishedAt": "2026-10-20T20:15:35+07:00"
+    },
+    {
+      "key": "nguyenminh",
+      "totalCount": 0,
+      "photosCount": 0,
+      "videosCount": 0,
+      "latestPublishedAt": null
     },
     {
       "key": "thlinh",
