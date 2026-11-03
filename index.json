@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-03T15:14:27.441Z",
-  "totalPeople": 10,
-  "totalMedia": 140,
+  "generated_at": "2026-11-03T15:24:31.639Z",
+  "totalPeople": 11,
+  "totalMedia": 247,
   "people": [
     {
       "key": "chau",
@@ -72,6 +72,13 @@
       "photosCount": 3,
       "videosCount": 0,
       "latestPublishedAt": "2026-09-25T19:19:00+07:00"
+    },
+    {
+      "key": "nguyenlinh",
+      "totalCount": 107,
+      "photosCount": 98,
+      "videosCount": 9,
+      "latestPublishedAt": "2026-10-20T20:15:35+07:00"
     }
   ]
 }
