@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-11-03T14:59:51.253Z",
-  "totalPeople": 5,
-  "totalMedia": 32,
+  "generated_at": "2026-11-03T15:05:22.603Z",
+  "totalPeople": 6,
+  "totalMedia": 105,
   "people": [
+    {
+      "key": "chau",
+      "totalCount": 73,
+      "photosCount": 71,
+      "videosCount": 2,
+      "latestPublishedAt": "2026-10-18T17:17:36+07:00"
+    },
     {
       "key": "danh",
       "totalCount": 21,
