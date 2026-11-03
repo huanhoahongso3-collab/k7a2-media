@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T17:08:10.194Z",
-  "totalPeople": 22,
+  "generated_at": "2026-11-03T17:13:43.583Z",
+  "totalPeople": 23,
   "totalMedia": 1256,
   "people": [
     {
@@ -156,6 +156,13 @@
       "photosCount": 23,
       "videosCount": 3,
       "latestPublishedAt": "2026-07-14T09:11:17+07:00"
+    },
+    {
+      "key": "vuthao",
+      "totalCount": 0,
+      "photosCount": 0,
+      "videosCount": 0,
+      "latestPublishedAt": null
     }
   ]
 }
