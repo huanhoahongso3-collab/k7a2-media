@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-03T16:24:53.763Z",
-  "totalPeople": 19,
-  "totalMedia": 914,
+  "generated_at": "2026-11-03T16:40:09.097Z",
+  "totalPeople": 20,
+  "totalMedia": 1201,
   "people": [
     {
       "key": "chau",
@@ -114,6 +114,13 @@
       "photosCount": 0,
       "videosCount": 0,
       "latestPublishedAt": null
+    },
+    {
+      "key": "tai",
+      "totalCount": 287,
+      "photosCount": 284,
+      "videosCount": 3,
+      "latestPublishedAt": "2026-11-03T21:26:13+07:00"
     },
     {
       "key": "thlinh",
