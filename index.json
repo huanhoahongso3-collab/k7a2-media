@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-11-03T14:56:55.329Z",
-  "totalPeople": 2,
-  "totalMedia": 7,
+  "generated_at": "2026-11-03T14:57:35.425Z",
+  "totalPeople": 3,
+  "totalMedia": 8,
   "people": [
+    {
+      "key": "ducanh",
+      "totalCount": 1,
+      "photosCount": 1,
+      "videosCount": 0,
+      "latestPublishedAt": "2026-08-04T13:46:54+07:00"
+    },
     {
       "key": "hoaian",
       "totalCount": 7,
